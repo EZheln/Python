@@ -1,3 +1,4 @@
+﻿#!/usr/bin/python
 from controllerlib import controller
 a = input("Давай знакомиться! Я - Чудо игра! А тебя как зовут?  ")
 print("Приятно познакомиться,", a)
